@@ -1,4 +1,5 @@
-# WebsiteRedirectionDetection
+# Website Redirection Detection
+### Lachlan Wardropper (44397580)
 This repository contains the code used to generate models and data for my thesis project. Please note that some files have been uploaded after parameter tuning and testing, and thus do not reflect the reports made in the thesis. A decription of each file can be seen below:
 
 ### Text Classifiers.ipynb
